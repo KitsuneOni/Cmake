@@ -1,0 +1,3 @@
+﻿  VideoStab.cpp
+C:\Users\Neel\source\repos\Cmake\Cmake\VideoStab.cpp(82,65): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Cmake.vcxproj -> C:\Users\Neel\source\repos\Cmake\x64\Debug\Cmake.exe
